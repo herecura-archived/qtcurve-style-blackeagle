@@ -1,7 +1,7 @@
 # Maintainer: BlackEagle < ike DOT devolder AT gmail DOT be >
 pkgname=qtcurve-style-blackeagle
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="BlackEagles QtCurve style"
 arch=('any')
 url="http://www.herecura.be"

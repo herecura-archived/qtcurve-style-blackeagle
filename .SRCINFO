@@ -1,7 +1,7 @@
 pkgbase = qtcurve-style-blackeagle
 	pkgdesc = BlackEagles QtCurve style
 	pkgver = 1.0
-	pkgrel = 1
+	pkgrel = 2
 	url = http://www.herecura.be
 	arch = any
 	license = GPL
